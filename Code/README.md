@@ -101,5 +101,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 ## Contact
-For feedback or questions, open an issue or contact via GitHub:  
-https://github.com/code-by-sahib/CalPal-Calorie-Calculator
+For questions or feedback, please reach out via e-mail: sahib.ahluwalia@torontomu.ca
+
+
