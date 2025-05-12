@@ -26,8 +26,6 @@ A Python-based command-line application for calculating daily calorie intake and
 ## Requirements
 - Python 3.6 or higher  
 - matplotlib  
-- pandas  
-- numpy  
 
 ## Installation
 1. Clone the repository  
